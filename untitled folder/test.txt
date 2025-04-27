@@ -1,0 +1,20 @@
+Now, this is another file.
+It has more content.
+And, it will also appear in IDLE at the prompt>>>.
+But, it will have append data.
+in the last couple of lines.
+But, it will have appended data.
+in the last couple of lines.
+But, it will have appended data.
+in the last couple of lines.
+But, it will have appended data.
+in the last couple of lines.
+But, it will have appended data.
+in the last couple of lines.
+But, it will have appended data.
+in the last couple of lines.
+But, it will have appended data.
+in the last couple of lines.
+This is the first sentence appended
+This is the second
+This is the third
